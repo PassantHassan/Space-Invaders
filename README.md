@@ -1,6 +1,6 @@
 # Space-Invaders
 
- It is a 2D game similar to chicken invaders game. It's story is about protecting the earth from aliens invade.
+ ## It is a 2D game similar to chicken invaders game. It's story is about protecting the earth from aliens invade.
 
 # Technologies:
   ## JavaFX
